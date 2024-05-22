@@ -1,0 +1,7 @@
+pip install sentence-transformers
+pip install faiss-gpu
+
+pip install "langserve[all]"
+pip install streamlit
+pip install PyPDF2
+pip install langchain
